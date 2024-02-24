@@ -10,7 +10,7 @@ playstore_link                            :                                     
 presskit_download_link                    :                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : assets/logo.jpg                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/logo.png                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : ARPlantsCare                                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Complementing reality with your plants!
@@ -48,13 +48,13 @@ features                                  :
     description                           : Projection of the auxiliary surface for the installation of the model.
     fontawesome_icon_name                 : magic
 
-  - title                                 : Automatic Icon and Metadata
+  - title                                 : Model's Interaction
     description                           : Interaction with the plant after installation.
-    fontawesome_icon_name                 : right-left
+    fontawesome_icon_name                 : seedling
 
-  - title                                 : Easy to Tweak
+  - title                                 : Custom models
     description                           : Import custom models in the application [USDZ, OBJ, SCN].
-    fontawesome_icon_name                 : unity
+    fontawesome_icon_name                 : cubes
   
   - title                                 : Feature List
     description                           : Recording photo collages & AR session.
