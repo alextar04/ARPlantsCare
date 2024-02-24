@@ -355,7 +355,7 @@ If you are a resident in the European Economic Area, we are the 'data controller
 
 If you are a resident in the United Kingdom, we are the 'data controller' of your personal information. We have appointed __________ to be our representative in the UK. You can contact them directly regarding our processing of your information, or by post to:
 
-email: essa.teryuavainen@gmail.com
+email: essa.teryuavainen@gmail.com\
 United Kingdom
 
 ### HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
