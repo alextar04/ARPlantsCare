@@ -349,16 +349,13 @@ We may update this privacy notice from time to time. The updated version will be
 
 If you have questions or comments about this notice, you may contact us by post at:
 
-__________
-__________
-__________
+email: essa.teryuavainen@gmail.com
 
 If you are a resident in the European Economic Area, we are the 'data controller' of your personal information. We have appointed __________ to be our representative in the EEA. You can contact them directly regarding our processing of your information, or by post to:
 
 If you are a resident in the United Kingdom, we are the 'data controller' of your personal information. We have appointed __________ to be our representative in the UK. You can contact them directly regarding our processing of your information, or by post to:
 
-__________
-__________ __________
+email: essa.teryuavainen@gmail.com
 United Kingdom
 
 ### HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
